@@ -5,7 +5,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 ### Note: The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed.
 
-### If you are using the code/data provided here in a publication, please consider citing our papers which have been included in this benchmark:
+If you are using the code/data provided here in a publication, please consider citing our papers which have been included in this benchmark:
 
     @article{liu2019richer,
       title={Richer Convolutional Features for Edge Detection},
